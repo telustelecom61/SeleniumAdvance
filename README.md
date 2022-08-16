@@ -10,8 +10,13 @@ I tested this testng code in my local through eclipse. I used paramenterization 
 The passed test IDs in Lambdatest plotform are ERLH2-61RXZ-UEBZH-2NIN1, DDFYE-RQ5MB-T1RU1-13GKB.
 
 Please follow steps below to test it successfully.
+
 In Github repository, navigate to LambdaTest.java and copy the code to your local eclipse.
+
 Navigate to testng.xml and copy the code to your local eclipse.
+
 Make sure you downloaded all the jar files.
+
 Now run the testng.xml file through eclipse. This should run successfully.
+
 you will get result in console.
