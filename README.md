@@ -19,4 +19,4 @@ Make sure you downloaded all the jar files.
 
 Now run the testng.xml file through eclipse. This should run successfully.
 
-you will get result in console.
+you will get the result in console.
